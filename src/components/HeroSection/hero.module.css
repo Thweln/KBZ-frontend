@@ -1,0 +1,9 @@
+.banner {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    padding: 5rem 12rem;
+    background: linear-gradient(270deg, #E1F3FA 0%, rgba(225, 243, 250, 0.15) 98.83%);
+    opacity: 1;
+}
